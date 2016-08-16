@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "E$*G8Y1el6rn0AshUb6YY5Nm6F62103$",
+    "database": "rcb_reddit",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
